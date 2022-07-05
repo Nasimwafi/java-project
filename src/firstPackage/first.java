@@ -7,4 +7,8 @@ public class first {
 
 	}
 
+	public void sala() {
+		System.out.println("this the first methode for this clase");
+	}
+
 }
