@@ -11,4 +11,11 @@ public class first {
 		System.out.println("this the first methode for this clase");
 	}
 
+	int a, b;
+	public boolean logic () {
+		if ((a+b)==10)
+			return true;
+		else 
+			return false;
+	}
 }
